@@ -1,0 +1,15 @@
+oscana.s2n.seasar
+oscana.s2n.seasar.extension.sql
+oscana.s2n.seasar.framework.beans
+oscana.s2n.seasar.framework.beans.factory
+oscana.s2n.seasar.framework.beans.util
+oscana.s2n.seasar.framework.container
+oscana.s2n.seasar.framework.container.factory
+oscana.s2n.seasar.framework.convention
+oscana.s2n.seasar.framework.convention.impl
+oscana.s2n.seasar.framework.exception
+oscana.s2n.seasar.framework.util
+oscana.s2n.seasar.framework.util.tiger
+oscana.s2n.seasar.struts.config
+oscana.s2n.seasar.struts.taglib
+oscana.s2n.seasar.struts.util
